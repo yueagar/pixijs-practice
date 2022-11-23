@@ -1,0 +1,22 @@
+#canvas {
+    display: block
+}
+.vertical {
+	position: fixed;
+	user-select: none;
+	font-family: "Times New Roman";
+	color: white;
+	font-size: 24px;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+}
+#text1 {
+	left: 0px;
+	top: 8px;
+}
+#text2 {
+	right: 0px;
+	bottom: 8px;
+}
